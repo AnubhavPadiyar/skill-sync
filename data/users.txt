@@ -1,0 +1,8 @@
+# id|name|teach|learn
+1|Aarav|python,guitar|react,photoshop
+2|Diya|react,sql|python,guitar
+3|Kabir|photoshop|sql
+4|Meera|dsa,figma|python,photoshop,excel
+5|Rohan|docker|dsa,figma
+6|Sneha|excel|docker
+7|Anubhav|sql|html
